@@ -1,4 +1,5 @@
 package CONDITION;
+
 import java.util.*;
 public class calculatesum {
 	public static int calculateSum(int a, int b) {
