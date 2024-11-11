@@ -28,5 +28,6 @@ public class mergearray {
         for (int i : mergedArray) {
             System.out.print(i + " ");
         }
+        scanner.close();
     }
 }

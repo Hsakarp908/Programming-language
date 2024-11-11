@@ -75,7 +75,8 @@ import java.util.Scanner;
 			                        break;  
 			                }  
 			            }  
-		            while (ch != 5);  
+		            while (ch != 5); 
+					sc.close(); 
 			        }
             }   
 		class BankDetails {  
